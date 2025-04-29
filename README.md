@@ -137,7 +137,7 @@ O CI/CD automatiza:
 ## 🧑‍💻 Autor
 
 Feito com ❤️ por  Ariosto Leal\
-Conecte-se comigo nowww\.linkedin.com/in/aryostto
+Conecte-se comigo : https://www.linkedin.com/in/aryostto-leal/
 
 
 
